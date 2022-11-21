@@ -1,3 +1,4 @@
-using html $ css only
+# Insure
+using html and css
 
 link: https://mahmoud-saed.github.io/INSURE/
